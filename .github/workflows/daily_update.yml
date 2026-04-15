@@ -16,4 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "zh"
           SCTION_NAME: "milkcandy"
+          SYMBOL_VERSION : "3"
+          SHOW_SHORT_INFO : "False"
           
