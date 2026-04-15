@@ -18,76 +18,34 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 85 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+**我是夜猫 🦉** 
 
 ```text
-🌞 Morning                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-🌆 Daytime                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-🌃 Evening                82 commits          ██████████░░░░░░░░░░░░░░░   41.62 % 
-🌙 Night                  54 commits          ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Tuesday                  31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Wednesday                38 commits          █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Thursday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Friday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Saturday                 15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Sunday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+🌞 早晨                     30 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.15 % 
+🌆 白天                     31 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.66 % 
+🌃 傍晚                     82 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.41 % 
+🌙 晚上                     55 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.78 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **本周消耗时间** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+💬 编程语言: 
+Go                       4 hrs 48 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.20 % 
+Python                   2 hrs 16 mins       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.37 % 
+Markdown                 24 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.38 % 
+Other                    3 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.75 % 
+PHP                      3 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.66 % 
 
-💬 Programming Languages: 
-Go                       4 hrs 48 mins       ████████████████░░░░░░░░░   62.20 % 
-Python                   2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-PHP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-
-🔥 Editors: 
-GoLand                   5 hrs 16 mins       █████████████████░░░░░░░░   68.21 % 
-PyCharm                  2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-```
-
-**I Mostly Code in Go** 
-
-```text
-Go                       6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-NSIS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+🐱‍💻 项目: 
+Kumobot                  5 hrs 19 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   68.78 % 
+ao                       2 hrs 14 mins       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.93 % 
+Unknown Project          10 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.29 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/milkcandyxxxx/milkcandyxxxx/main/assets/bar_graph.png)
-
-
- Last Updated on 15/04/2026 17:49:27 UTC
+ Last Updated on 15/04/2026 17:51:31 UTC
 <!--END_SECTION:waka-->
