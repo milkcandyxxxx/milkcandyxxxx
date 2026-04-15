@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   
+    - cron: '0 12 * * *'  
 
 jobs:
   update-readme:
@@ -26,3 +27,4 @@ jobs:
             LOCALE: "zh"
             BADGE_STYLE: "plastic"
             SHOW_COMMIT: "False"
+            SHOW_PROFILE_VIEWS: "False"
